@@ -1,3 +1,3 @@
-## Hi I'm Arjun
+##Hi, I'm Arjun
 
-I am doing some cool stuff!!
+This is where I upload my code!
