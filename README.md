@@ -1,5 +1,7 @@
 # Hello World!
 ## I'm Arjun
 
-This is where I _upload_ my **code samples**!  
+I'm a **Computer Science** student with a focus in **Cybersecurity**.
+This is where I upload my _code samples_, _network packets_, _security tools_, and other projects related to programming and cybersecurity. Feel free to check out my work, and let me know of any tweaks!
+
 ### **Enjoy**!
